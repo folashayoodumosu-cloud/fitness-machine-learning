@@ -144,6 +144,7 @@ notebooks/
 ## 📚 Inspiration
 
 Based on work from the *Machine Learning for the Quantified Self* course.
+
 "The quantified self is any individual engaged in the self-tracking of any kind of biological, physical, behavioural, or environmental information. The self-tracking is driven by a certain goal of the individual, with a desire to act upon the collected information." — Hoogendoorn, M., & Funk, B. (2018)
 
 ---
